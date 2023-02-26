@@ -16,6 +16,7 @@
     <description>Spring-security-oauth2-keycloack</description>
     <modules>
         <module>oauth2-authorization-code-demo</module>
+        <module>oauth2-pkce-demo</module>
     </modules>
     <properties>
         <java.version>11</java.version>
