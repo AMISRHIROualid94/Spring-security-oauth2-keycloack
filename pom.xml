@@ -17,6 +17,7 @@
     <modules>
         <module>oauth2-authorization-code-demo</module>
         <module>oauth2-pkce-demo</module>
+        <module>oauth2-client-credentials-demo</module>
     </modules>
     <properties>
         <java.version>11</java.version>
